@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinaybudde
 - 👀 I’m interested in programming languages 
 - 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on qny working platform
+- 💞️ I’m looking to collaborate on any working platform
 - 📫 How to reach me on 9182132881
 - I have basic knowledge on sql commands
 <!---
